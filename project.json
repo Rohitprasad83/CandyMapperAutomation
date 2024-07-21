@@ -48,12 +48,12 @@
       },
       {
         "editingStatus": "InProgress",
-        "testCaseId": "561aa425-0a44-421d-92cb-32fd28180131",
+        "testCaseId": "f7a67d8f-b22a-40b1-9eef-e726f4d41f3d",
         "executionTemplatePath": ".templates\\TestFramework.xaml",
         "testCaseType": "TestCase",
         "executionTemplateType": "Local",
         "executionTemplateInvokeIsolated": false,
-        "fileName": "TestCase.xaml"
+        "fileName": "PopupMessage.xaml"
       }
     ],
     "saveToCloud": false
