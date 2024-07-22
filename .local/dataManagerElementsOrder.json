@@ -1,0 +1,67 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Assets&"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [
+        "TestTimeOut&"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "commons/DimissPopup.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Assets&9235f435-e761-486e-85de-a8814c7c207b"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "TestTimeOut&9235f435-e761-486e-85de-a8814c7c207b"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "PopupMessage.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Assets&08fb06f7-eed6-43b7-882a-4995d644b7c7",
+        "str_message&Sequence_2",
+        "Assets&9235f435-e761-486e-85de-a8814c7c207b"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "TestTimeOut&08fb06f7-eed6-43b7-882a-4995d644b7c7"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": ".templates/TestFramework.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Assets&9235f435-e761-486e-85de-a8814c7c207b"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "TestTimeOut&9235f435-e761-486e-85de-a8814c7c207b"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "HomePageNumber.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_contact&Sequence_2",
+        "Assets&08fb06f7-eed6-43b7-882a-4995d644b7c7"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "TestTimeOut&08fb06f7-eed6-43b7-882a-4995d644b7c7"
+      ],
+      "AddedNamespaces": null
+    }
+  ]
+}
