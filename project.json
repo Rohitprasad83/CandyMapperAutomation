@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.10.1.0",
-  "projectVersion": "1.0.175287665",
+  "projectVersion": "1.0.175365340",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -65,13 +65,22 @@
         "fileName": "HomePageNumber.xaml"
       },
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "bae72abc-e7dc-4eed-9bf9-a8d51fcf3bdc",
         "executionTemplatePath": ".templates\\TestFramework.xaml",
         "testCaseType": "TestCase",
         "executionTemplateType": "Local",
         "executionTemplateInvokeIsolated": false,
         "fileName": "SliderChallenge.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "9cc4421f-cb9e-4c99-92c3-4b0850cdb82d",
+        "executionTemplatePath": ".templates\\TestFramework.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "RandomDollar.xaml"
       }
     ],
     "saveToCloud": false
