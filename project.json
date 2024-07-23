@@ -48,30 +48,12 @@
       },
       {
         "editingStatus": "Publishable",
-        "testCaseId": "f7a67d8f-b22a-40b1-9eef-e726f4d41f3d",
-        "executionTemplatePath": ".templates\\TestFramework.xaml",
-        "testCaseType": "TestCase",
-        "executionTemplateType": "Local",
-        "executionTemplateInvokeIsolated": false,
-        "fileName": "PopupMessage.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "b3edbad5-af4c-4612-90db-cecfcc0331c3",
-        "executionTemplatePath": ".templates\\TestFramework.xaml",
-        "testCaseType": "TestCase",
-        "executionTemplateType": "Local",
-        "executionTemplateInvokeIsolated": false,
-        "fileName": "HomePageNumber.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
         "testCaseId": "bae72abc-e7dc-4eed-9bf9-a8d51fcf3bdc",
         "executionTemplatePath": ".templates\\TestFramework.xaml",
         "testCaseType": "TestCase",
         "executionTemplateType": "Local",
         "executionTemplateInvokeIsolated": false,
-        "fileName": "SliderChallenge.xaml"
+        "fileName": "Tests\\SliderChallenge.xaml"
       },
       {
         "editingStatus": "Publishable",
@@ -80,7 +62,34 @@
         "testCaseType": "TestCase",
         "executionTemplateType": "Local",
         "executionTemplateInvokeIsolated": false,
-        "fileName": "RandomDollar.xaml"
+        "fileName": "Tests\\RandomDollar.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "f7a67d8f-b22a-40b1-9eef-e726f4d41f3d",
+        "executionTemplatePath": ".templates\\TestFramework.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Tests\\PopupMessage.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "b3edbad5-af4c-4612-90db-cecfcc0331c3",
+        "executionTemplatePath": ".templates\\TestFramework.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Tests\\HomePageNumber.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "b7ee10ab-f8db-428b-940d-c49aef986f9d",
+        "executionTemplatePath": ".templates\\TestFramework.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Tests\\VerifyMovieNames.xaml"
       }
     ],
     "saveToCloud": false
