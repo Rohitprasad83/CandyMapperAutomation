@@ -4,7 +4,7 @@
   "description": "The Candy Mapper Website automation project",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.System.Activities": "[23.4.2]",
+    "UiPath.System.Activities": "[24.10.4]",
     "UiPath.Testing.Activities": "[23.4.0]",
     "UiPath.UIAutomation.Activities": "[23.4.5]"
   },
@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.10.1.0",
-  "projectVersion": "1.0.175365340",
+  "projectVersion": "1.0.175534443",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -90,6 +90,60 @@
         "executionTemplateType": "Local",
         "executionTemplateInvokeIsolated": false,
         "fileName": "Tests\\VerifyMovieNames.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "ec23a4a6-6bf1-4400-9235-fcdb709f231b",
+        "executionTemplatePath": ".templates\\TestFramework.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Tests\\VerifySuccessfulLogin.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "5f7650ea-cf34-4bfb-8973-6985295836c3",
+        "executionTemplatePath": ".templates\\TestFramework.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Tests\\VerifyLoginWithIncorrectPassword.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "f9f3f484-3015-4d24-a371-7a8409ef828b",
+        "executionTemplatePath": ".templates\\TestFramework.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Tests\\VerifyLoginWithBlankUsername.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "cfa5a7b8-307d-4a98-95df-b6791c6ec81d",
+        "executionTemplatePath": ".templates\\TestFramework.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Tests\\VerifyLoginWithBlankPassword.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "9c55dfbf-6b37-4a67-a06a-6e4af6e3a14c",
+        "executionTemplatePath": ".templates\\TestFramework.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Tests\\VerifyPopupChallengeV2.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "69290259-6ec1-45f6-853e-20b6c155e5b8",
+        "executionTemplatePath": ".templates\\TestFramework.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Tests\\VerifyPopupChallenge.xaml"
       }
     ],
     "saveToCloud": false

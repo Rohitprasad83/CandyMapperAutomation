@@ -16,11 +16,11 @@
       "Path": "commons/DimissPopup.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "Assets&9235f435-e761-486e-85de-a8814c7c207b"
+        "Assets&62c51ced-4d95-4f10-ae4d-c8e94c15296c"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [
-        "TestTimeOut&9235f435-e761-486e-85de-a8814c7c207b"
+        "TestTimeOut&62c51ced-4d95-4f10-ae4d-c8e94c15296c"
       ],
       "AddedNamespaces": null
     },
@@ -28,13 +28,12 @@
       "Path": "PopupMessage.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "Assets&08fb06f7-eed6-43b7-882a-4995d644b7c7",
-        "str_message&Sequence_2",
-        "Assets&9235f435-e761-486e-85de-a8814c7c207b"
+        "Assets&4e8c561f-1c6d-4904-b14f-628bf3fab49b",
+        "str_message&Sequence_2"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [
-        "TestTimeOut&08fb06f7-eed6-43b7-882a-4995d644b7c7"
+        "TestTimeOut&4e8c561f-1c6d-4904-b14f-628bf3fab49b"
       ],
       "AddedNamespaces": null
     },
@@ -54,12 +53,210 @@
       "Path": "HomePageNumber.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "str_contact&Sequence_2",
-        "Assets&08fb06f7-eed6-43b7-882a-4995d644b7c7"
+        "Assets&4e8c561f-1c6d-4904-b14f-628bf3fab49b",
+        "str_contact&Sequence_2"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [
-        "TestTimeOut&08fb06f7-eed6-43b7-882a-4995d644b7c7"
+        "TestTimeOut&4e8c561f-1c6d-4904-b14f-628bf3fab49b"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SliderChallenge.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_slider&Sequence_2",
+        "Assets&4e8c561f-1c6d-4904-b14f-628bf3fab49b"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "TestTimeOut&4e8c561f-1c6d-4904-b14f-628bf3fab49b"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": ".local/generated/Generated - SliderChallenge.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Assets&4e8c561f-1c6d-4904-b14f-628bf3fab49b"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "__invokedWorkflowName__"
+      ],
+      "ConstantsSectionElementsOrder": [
+        "TestTimeOut&4e8c561f-1c6d-4904-b14f-628bf3fab49b"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "RandomDollar.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_dollar&Sequence_2",
+        "Assets&4e8c561f-1c6d-4904-b14f-628bf3fab49b"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "TestTimeOut&4e8c561f-1c6d-4904-b14f-628bf3fab49b"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Tests/VerifyPopupChallengeV2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Assets&62c51ced-4d95-4f10-ae4d-c8e94c15296c",
+        "str_submitResponse&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "TestTimeOut&62c51ced-4d95-4f10-ae4d-c8e94c15296c"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Tests/VerifySuccessfulLogin.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Assets&62c51ced-4d95-4f10-ae4d-c8e94c15296c",
+        "str_loginText&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "TestTimeOut&62c51ced-4d95-4f10-ae4d-c8e94c15296c"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Tests/VerifyLoginWithIncorrectPassword.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Assets&62c51ced-4d95-4f10-ae4d-c8e94c15296c",
+        "str_loginText&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "TestTimeOut&62c51ced-4d95-4f10-ae4d-c8e94c15296c"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Tests/VerifyLoginWithBlankUsername.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Assets&62c51ced-4d95-4f10-ae4d-c8e94c15296c",
+        "str_loginText&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "TestTimeOut&62c51ced-4d95-4f10-ae4d-c8e94c15296c"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Tests/VerifyLoginWithBlankPassword.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Assets&62c51ced-4d95-4f10-ae4d-c8e94c15296c",
+        "str_loginText&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "TestTimeOut&62c51ced-4d95-4f10-ae4d-c8e94c15296c"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Tests/HomePageNumber.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Assets&62c51ced-4d95-4f10-ae4d-c8e94c15296c",
+        "str_contact&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "TestTimeOut&62c51ced-4d95-4f10-ae4d-c8e94c15296c"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Tests/PopupMessage.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Assets&62c51ced-4d95-4f10-ae4d-c8e94c15296c",
+        "str_message&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "TestTimeOut&62c51ced-4d95-4f10-ae4d-c8e94c15296c"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Tests/RandomDollar.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Assets&abc143b5-f57c-4727-835a-11495d308171",
+        "Assets&62c51ced-4d95-4f10-ae4d-c8e94c15296c",
+        "str_dollar&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "TestTimeOut&abc143b5-f57c-4727-835a-11495d308171"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Tests/SliderChallenge.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Assets&62c51ced-4d95-4f10-ae4d-c8e94c15296c",
+        "str_slider&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "TestTimeOut&62c51ced-4d95-4f10-ae4d-c8e94c15296c"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Tests/VerifyMovieNames.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Assets&62c51ced-4d95-4f10-ae4d-c8e94c15296c",
+        "str_movie1&Sequence_1",
+        "str_movie2&Sequence_1",
+        "str_movie3&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "TestTimeOut&62c51ced-4d95-4f10-ae4d-c8e94c15296c"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "commons/DimissPopupV2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Assets&62c51ced-4d95-4f10-ae4d-c8e94c15296c"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "TestTimeOut&62c51ced-4d95-4f10-ae4d-c8e94c15296c"
+      ],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Tests/VerifyPopupChallenge.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Assets&62c51ced-4d95-4f10-ae4d-c8e94c15296c",
+        "str_submitResponse&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [
+        "TestTimeOut&62c51ced-4d95-4f10-ae4d-c8e94c15296c"
       ],
       "AddedNamespaces": null
     }

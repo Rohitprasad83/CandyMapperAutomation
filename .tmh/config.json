@@ -1,3 +1,9 @@
 {
-  "issueKeyTestcaseValues": {}
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/studejeosqpm/DefaultTenant/testmanager_/",
+  "defaultProject": {
+    "id": "c799f75c-ba3c-0000-5351-0b470d49f955",
+    "name": "CandyMapperAutomation",
+    "key": "CMA"
+  }
 }
