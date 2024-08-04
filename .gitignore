@@ -1,0 +1,8 @@
+./project
+./screenshots
+./templates
+./tmh
+*.png
+./local
+*.jpg
+*.dll
